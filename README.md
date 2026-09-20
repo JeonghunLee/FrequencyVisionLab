@@ -10,9 +10,30 @@ Simple experiments for image processing using frequency-domain transforms.
 - Image enhancement
 - Noise and detail analysis
 
-## Environment
+## Environment Setup
 
-Experiments are implemented and documented in **Google Colab**.
+This project uses a Python virtual environment (`venv`) with Jupyter Notebook.
+
+### 1. Create Virtual Environment
+
+From the project root directory:
+
+
+```
+python -m venv .venv
+```
+
+```
+.\.venv\Scripts\Activate.ps1
+```
+
+```
+python -m pip install --upgrade pip
+```
+
+```
+pip install -r requirements.txt
+```
 
 ## Goal
 
@@ -22,3 +43,8 @@ The purpose of this repository is to compare FFT and DCT based image processing 
 
 - Fourier Transforms in Python  
   https://raghavchhetri.github.io/scattered.dimes/2021/07/21/Fourier-Transforms-in-Python
+
+- Simula Research Laboratory Datasets
+  https://datasets.simula.no/downloads
+- Kvasir-Capsule Dataset
+  https://datasets.simula.no/kvasir-capsule/
