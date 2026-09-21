@@ -44,7 +44,5 @@ The purpose of this repository is to compare FFT and DCT based image processing 
 - Fourier Transforms in Python  
   https://raghavchhetri.github.io/scattered.dimes/2021/07/21/Fourier-Transforms-in-Python
 
-- Simula Research Laboratory Datasets
-  https://datasets.simula.no/downloads
-- Kvasir-Capsule Dataset
-  https://datasets.simula.no/kvasir-capsule/
+- PHY Simuation and RF Mixer
+  https://github.com/JeonghunLee/phy_simulation
